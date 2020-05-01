@@ -5,17 +5,6 @@ date: "5/1/2020"
 output: pdf_document
 ---
 
----
-title: "Assignment 5"
-author:
-- Abe Kazemzadeh^[University of St. Thomas, abe.kazemzadeh@stthomas.edu]
-- OpenIntro Statistics^[Creative Commons--Share Alike By Attribution, https://www.openintro.org/license]
-date: "4/20/2020"
-output:
-  pdf_document: default
-  html_document:
-    df_print: paged
----
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
